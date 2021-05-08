@@ -6,7 +6,7 @@ This is a tornado application offering a REST-API to run the application.
 
 Setup
 ----------
-Run setup.py to install the necessary requirements and than run 
+Run setup.py to install the necessary requirements
 
 
 Run
